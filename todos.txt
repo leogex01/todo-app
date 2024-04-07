@@ -1,0 +1,4 @@
+sleep
+nap
+clean
+turn off lights
