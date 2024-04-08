@@ -2,3 +2,6 @@ sleep
 nap
 clean
 turn off lights
+damned typo
+hi
+hi
