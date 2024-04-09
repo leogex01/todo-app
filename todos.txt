@@ -1,8 +1,2 @@
-sleep
 nap
 eat dinner
-clean coolers
-blank
-
-another blank
-add todo
